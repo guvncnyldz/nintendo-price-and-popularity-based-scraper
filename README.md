@@ -23,7 +23,7 @@ This is a web scraper designed to fetch data about popular games from the E-Shop
 
 1. Clone the repository:
    ```
-   git clone https://github.com/guvncnyldz/eshop-price-scraper.git
+   git clone https://github.com/guvncnyldz/nintendo-price-and-popularity-based-scraper.git
    cd eshop-price-scraper
    ```
 
